@@ -5,7 +5,8 @@ repository: https://github.com/shubhamdevgupta/native_location_bridge
 homepage: https://github.com/shubhamdevgupta/native_location_bridge
 
 environment:
-  sdk: '>=3.3.0 <4.0.0'
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.10.0"
 
 dependencies:
   flutter:
