@@ -1,5 +1,5 @@
 
-## 1.0.0 - Initial Release
+## 1.0.1 - Initial Release
 
 - ✅ Native location fetching via Android (Kotlin) and iOS (Swift)
 - ✅ Realtime location streaming using EventChannel
