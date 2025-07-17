@@ -1,8 +1,8 @@
 name: native_location_bridge
 description: A Flutter package for fetching location and real-time location updates using native Android/iOS code without dependencies.
 version: 1.0.0
-repository: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
-homepage: https://github.com/YOUR_USERNAME/YOUR_REPO_NAME
+repository: https://github.com/shubhamdevgupta/native_location_bridge
+homepage: https://github.com/shubhamdevgupta/native_location_bridge
 
 environment:
   sdk: '>=3.3.0 <4.0.0'
@@ -16,3 +16,6 @@ flutter:
       ios:
         pluginClass: AppDelegate
 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
